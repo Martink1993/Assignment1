@@ -1,9 +1,7 @@
 #Adding two numbers 
 a = int(input(" Input number1: "))
 b = int(input(" Input number2: "))
- 
 Add = a + b
- 
 print("Add:", Add)
 
 #Multiplying two 3*3 matrices
